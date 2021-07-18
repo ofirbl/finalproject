@@ -1,0 +1,39 @@
+{
+"items": [
+    {
+        "id": "1" ,     
+        "title": "CZSmart",
+        "price": 700.99,
+        "image": "./images/men/CZSmart.png",
+        "gender": "men"  
+    },
+    {
+        "id": "2" ,     
+        "title": "PCAT",
+        "price": 550.99,
+        "image": "./images/men/PCAT.png",
+        "gender": "men" 
+    },
+    {
+        "id": "3" ,     
+        "title": "World Chronograph",
+        "price": 1100.99,
+        "image": "./images/men/WorldChronographAT.png",
+        "gender": "men"
+    },
+    {
+        "id": "4" ,     
+        "title": "Calendrier(Blue)",
+        "price": 670.99,
+        "image": "./images/women/Calendrier(1).png",
+        "gender": "women"
+    },
+    {
+        "id": "5" ,     
+        "title": "Calendrier",
+        "price": 669.99,
+        "image": "./images/women/Calendrier(2).png",
+        "gender": "women"
+    }
+]
+}
